@@ -6,7 +6,7 @@ import "./HeroSection.css";
 function HeroSection() {
   return (
     <div className="hero-container">
-      <video src="/videos/video-3.mp4" autoPlay muted />
+      <video src="/videos/video-2.mp4" autoPlay muted />
       <h1>EXPLORE THE OUTDOORS</h1>
       <p>Recharge and get lost in natural wonders</p>
       <div className="hero-btns">
